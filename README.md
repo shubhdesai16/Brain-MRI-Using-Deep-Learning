@@ -45,4 +45,4 @@ Follow any additional instructions provided within the notebook cells.
 
 **Author**
 
-Shubh Desai
+[Shubh Desai](https://www.linkedin.com/in/shubh-desai-1b0173170/)
